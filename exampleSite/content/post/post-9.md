@@ -1,7 +1,7 @@
 ---
 title: Writing Through The Pain
 date: 2019-05-12T12:14:34.000+06:00
-image: "/images/address_europass_icon.svg"
+image: "/images/post/post-1.jpg"
 author: John Doe
 description: This is meta description.
 categories:
