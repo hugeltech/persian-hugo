@@ -11,7 +11,7 @@ tags:
 - memo
 
 ---
-![](/images/post/post-6.jpg)
+![](/images/post/post-6.jpg "title")
 
 ![](/images/post/post-2.jpg)
 
